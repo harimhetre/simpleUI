@@ -1,0 +1,31 @@
+.product-info {
+  width: 400px;
+  height: 180px;
+  border: 2px solid rgb(187, 125, 211);
+  border-bottom: none;
+  box-sizing: border-box;
+  margin-left: 50%;
+  transform: translate(-50%);
+  background-color: #fff;
+  padding-top: 0;
+}
+
+ .product-info h1 {
+  font-size: 1.5rem;
+  padding-top: 0;
+  color: rgb(197, 91, 88)
+}
+
+ul {
+  list-style-type: none;
+}
+
+
+
+.product-info-content {
+  padding-left: 2rem;
+  line-height: 2rem;
+  font-weight: bold;
+  font-size: 1rem;
+  color: orange;
+}
